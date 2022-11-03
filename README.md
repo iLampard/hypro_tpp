@@ -2,5 +2,4 @@
 
 Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequence
 
-
-coming soon
+the official version is coming soon.
